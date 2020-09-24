@@ -26,4 +26,10 @@ Once the folder is built in the directory, we open The `App.js` file and write o
 
 ![WhatsApp Image 2020-09-25 at 1 20 18 AM](https://user-images.githubusercontent.com/65769340/94193030-6dac9880-fecd-11ea-8911-0a32a0099bd8.jpeg)
 
+This is what the app looks like after adding 4 notes from the text input to the scrollview.
+
+## Modifying the code for deletion of notes
+Once any of the tasks have been completed, the code also facilitates the deletion of those tasks from the list of notes by clicking the `Del` button next to each note. The
+`deleteNote` method in `Main.js` file uses the `splice` function from Javascript to delete 1 note as specified in the functional arguments.
+
 
