@@ -24,3 +24,6 @@ Once all the aforementioned frameworks have been installed on the system, we're 
 ## The App.js file
 Once the folder is built in the directory, we open The `App.js` file and write our code.This is the file that runs by default on the emulator or actual device unless the `index.js` file is updated with the name of the file that we wish to run in case there are mutiple files used in the project. Now, we import the `Main.js` file in our `App.js` file.`Main.js` file contains the UI of our app and all the javascript functions for taking input from the user and adding it to the array of notes.
 
+![WhatsApp Image 2020-09-25 at 1 20 18 AM](https://user-images.githubusercontent.com/65769340/94193030-6dac9880-fecd-11ea-8911-0a32a0099bd8.jpeg)
+
+
